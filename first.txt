@@ -4,3 +4,5 @@ Year is 2022
 It is raining heavy
 We are learning GIT
 Tomorrow is Wednesday
+We have communication skills on wednesday
+
