@@ -1,4 +1,8 @@
-Today is Tuesday and our training is from 9 to 6.
-Session is going good.
+Today is Tuesday and our training is from 9 to 6
+Session is going good
 We are learning GIT
+<<<<<<< HEAD
 I am feeling good.
+=======
+
+>>>>>>> br1
