@@ -1,8 +1,3 @@
 Today is Tuesday and our training is from 9 to 6.
 Session is going good.
-<<<<<<< HEAD
 We are learning GIT
-=======
-We are learning GIT
-Some Problem Occured.
->>>>>>> br1
